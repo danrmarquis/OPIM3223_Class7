@@ -13,7 +13,7 @@ Because 1 enemy is too boring :)
 How we "complete" and restart the game
 
 ### Midterm Assignment
-
+[Midterm Rubric](https://docs.google.com/document/d/1O3YN6S5C04Rb5UrmWVVlErNXEwMRSHlAmj3hzhoraC8/edit?usp=sharing)
 
 #### Resources
 - [Finding GameObjects by Tag](https://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html)
